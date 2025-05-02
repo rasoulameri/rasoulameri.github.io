@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.55bbc357.css",
-    "main.js": "/static/js/main.336faa5e.js",
+    "main.js": "/static/js/main.a2b2e90d.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/ET.png": "/static/media/ET.b353436dd085855d59f6.png",
@@ -12,17 +12,17 @@
     "static/media/about.png": "/static/media/about.6ffa151aef26c083f544.png",
     "static/media/ETT.png": "/static/media/ETT.73025b7ab32d132ff746.png",
     "static/media/image.png": "/static/media/image.6fecde0284a2bd9b17b6.png",
+    "static/media/RasoulAmeri.pdf": "/static/media/RasoulAmeri.bf28886451166ca5e483.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/RasoulAmeri.pdf": "/static/media/RasoulAmeri.a447da29166c4dfa7614.pdf",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.55bbc357.css.map": "/static/css/main.55bbc357.css.map",
-    "main.336faa5e.js.map": "/static/js/main.336faa5e.js.map",
+    "main.a2b2e90d.js.map": "/static/js/main.a2b2e90d.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55bbc357.css",
-    "static/js/main.336faa5e.js"
+    "static/js/main.a2b2e90d.js"
   ]
 }
